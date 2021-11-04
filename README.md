@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lwanele Mayimele
 - 👀 I’m interested i
-- 🌱 I’m currently learning .Net Framework Xamarini
+- 🌱 I’m currently learning .Net Framework Xamarini and Flutter
 - 💞️ I’m looking to collaborate on => anything
 - 📫 How to reach me
  
