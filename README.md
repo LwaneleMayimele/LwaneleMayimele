@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lwanele Mayimele
-- 👀 I’m interested backend Java and Flutter
-- 🌱 I’m currently a Junior .Net Dev
-- 💞️ I’m looking to collaborate on => anything
+- 👀 I’m interested backend Java,.Net and Flutter
+- 🌱 I’m currently a full.Net and Angular Dev
+- 💞️ I’m looking to collaborate on => anything 
 - 📫 How to reach me
 
     Personal email : lwanelemayimele@gmail.com
